@@ -1,1 +1,4 @@
-# geoid-python-converter
+# GeoID Python Converter
+
+This is a python script that converts GeoIDs/FIPS county codes in a `CSV` Dataset to `County Name, StateCode`.
+
